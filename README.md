@@ -4,8 +4,6 @@
 
 Já imaginou ter todos os seus skatistas favoritos em um só lugar? Com o Skatistas Brasileiros, você pode pesquisar por nomes, modalidades e descobrir tudo sobre o universo do skate!
 
-[Inserir aqui um GIF animado da aplicação em funcionamento]
-
 ### ✨ Funcionalidades
 
 * **Pesquisa por nome:** Descubra tudo sobre seu skatista favorito.
